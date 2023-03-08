@@ -2,7 +2,7 @@
 - 👀 Nothing interests me more than logical discussions, analysis and to hear about science experiments
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on webapps, iOS apps and rest if they are low-commitment tasks
-- 📫 Reach out on IG: @_beer_withme or @lastbiteipromise
+- 📫 Reach out on IG: @ladai_lama or @lastbiteipromise
 
 <!---
 avidby/avidby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
