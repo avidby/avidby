@@ -1,7 +1,7 @@
-- 👋 @avidby - not a fan of vowels as is evident but well aware to know their importance
+- 👋 @avidby
 - 👀 Nothing interests me more than logical discussions, analysis and to hear about science experiments
 - 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on webapps, iOS apps and rest if they are low-commitment tasks
+- 💞️ I’m looking to collaborate on iOS apps and rest if they are low-commitment tasks
 - 📫 Reach out on IG: @ladai_lama or @lastbiteipromise
 
 <!---
